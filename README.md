@@ -15,12 +15,6 @@
 
 ---
 
-### 🌟 Pantalla principal
-![Pantalla principal](https://via.placeholder.com/800x400.png?text=Vista+Principal+de+la+App)
-
-### 🎉 Resultados del sorteo
-![Resultados del sorteo](https://via.placeholder.com/800x400.png?text=Resultados+del+Sorteo)
-
 ---
 
 ## 📦 Tecnologías Utilizadas
